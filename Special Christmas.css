@@ -9,14 +9,15 @@
 
   /* Miscellaneous */
 
+  --main-family: 'Monotype Corsiva', 'Apple Chancery', sans-serif;
   --info-wrapper: #9F8141; /* var(--info-wrapper) | Displayed header when scroll down a thread */
   --social: #ECD592; /* Bookmark/Share/Track buttons on a thread bottom */
   --social-btn: #7C7D5E; /* var(--social-btn) | default color of like/share/etc icons on a post */
   --like: red; /* Customize the "heart" (like-button) color */
   --flag: #ECD592; /* The "redflag" button to report inapropriate posts */
-  --unread: rgba(0,0,0,0.2); /* Define the background color of unread topics cells (in the user stream) */
+  --unread: #00000033; /* Define the background color of unread topics cells (in the user stream) */
   --highlight: #DFA700; /* var(--highlight) | hilighted search result */
-  --biography: rgba(255,255,255,0.3); /* var(--biography) | unexpanded biography div background */
+  --biography: #FFFFFF4D; /* var(--biography) | unexpanded biography div background */
   --foot-links: #e6db74; /* var(--foot-links) | links color in the footer */
   --quote-ctrl: green; /* var(--quote-ctrl) | color of the "expend/collapse" and "go-to" buttons on a quoted message */
 
@@ -39,7 +40,6 @@ html {
   left: 0;
   top: 0;
   width: 100%;
-  position: absolute;
   z-index:1;
   -webkit-animation: snow 10s linear infinite;
   -moz-animation: snow 10s linear infinite;
@@ -206,9 +206,9 @@ html p,
   color: var(--info-wrapper);
 }
 
-p {
-  font-family: 'Monotype Corsiva', 'Apple Chancery';
-  font-size: 18px
+p, .user-stream .excerpt {
+  font-family: var(--main-family);
+  font-size: 17.5px
 }
  
 p>code, li>code, pre>code {
@@ -233,9 +233,14 @@ footer {
 .topic-list .topic-excerpt {
   color: var(--text);
 }
- 
+
+
 .badge-notification.new-topic {
-  color: #66d9ef;
+  color: var(--secondary-bg);
+}
+
+.badge-notification, .badge-notification.new-posts {
+  background-color: var(--secondary-bg);
 }
  
 .nav-pills>li>a {
@@ -264,9 +269,13 @@ nav.post-controls button.create,
 .latest-topic-list-item .main-link a.title {
     color: var(--ember);
 }
- 
+  
+.topic-list .sortable:hover {
+  background-color: var(--secondary-bg);
+}
+
 .topic-list-item:hover {
-  background-color: rgba(163, 44, 38, 0.7);
+  background-color: #a42c26B3; /* Hover effect on topics */
 }
  
 .topic-list .topic-list-item-separator td span {
