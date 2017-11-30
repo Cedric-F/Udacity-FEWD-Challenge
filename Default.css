@@ -4,19 +4,29 @@
   /* Dominant colors */
   --primary-bg: #292d3e; /* var(--primary-bg) */
   --secondary-bg: #343741; /* var(--secondary-bg) */
-  --ember: rgba(253, 151, 31, 0.7); /* var(--ember) */
+  --ember: #fd9721b3; /* var(--ember) */
   --text: white; /* var(--text) */
 
   /* Miscellaneous */
 
-  --social-btn: magenta; /* var(--social-btn) | default color of like/share/etc buttons */
+  --social-btn: magenta; /* var(--social-btn) | default color of 
+
+like/share/etc buttons */
   --like: red; /* Customize the "heart" (like-button) color */
   --flag: red; /* The "redflag" button to report inapropriate posts */
-  --unread: rgba(0,0,0,0.2); /* Define the background color of unread topics cells (in the user stream) */
+  --unread: #00000033; /* Define the background color of unread topics 
+
+cells (in the user stream) */
   --highlight: #DFA700; /* var(--highlight) | hilighted search result */
-  --biography: rgba(255,255,255,0.3); /* var(--biography) | unexpanded biography div background */
-  --foot-links: #e6db74; /* var(--foot-links) | links color in the footer */
-  --quote-ctrl: green; /* var(--quote-ctrl) | color of the "expend/collapse" and "go-to" buttons on a quoted message */
+  --biography: #ffffff4d; /* var(--biography) | unexpanded biography div 
+
+background */
+  --foot-links: #e6db74; /* var(--foot-links) | links color in the footer 
+
+*/
+  --quote-ctrl: green; /* var(--quote-ctrl) | color of the 
+
+"expend/collapse" and "go-to" buttons on a quoted message */
 
 }
 
@@ -130,7 +140,9 @@ div.poll li[data-poll-option-id] {
   background-color: transparent;
 }
  
-/* Biography editor preview. By default takes the style of the next selector. Add your own between {} to edit it. */
+/* Biography editor preview. By default takes the style of the next 
+
+selector. Add your own between {} to edit it. */
  
 .user-preferences .bio-composer .d-editor-preview,
 .edit-category-tab-topic-template .d-editor-preview
@@ -239,7 +251,9 @@ nav.post-controls button.create,
   background-color: var(--primary-bg);
 }
  
-.d-editor-textarea-wrapper>.ember-view { /* Color of the text when replying/creating a topic | Keep it light on a dark background */
+.d-editor-textarea-wrapper>.ember-view { /* Color of the text when 
+
+replying/creating a topic | Keep it light on a dark background */
   color: white;
 }
  
