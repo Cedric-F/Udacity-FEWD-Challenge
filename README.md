@@ -75,6 +75,9 @@ _Snippet from the Default dark theme_
 }
   ```
 
+## Note
+The Christmas Special Edition uses a different template than the Default theme. As all the selectors don't use the same variable names from one theme to another, I'd suggest to use the whole code provided with the Chrismas Theme, and not just the `:root {}`
+
 # Credits:
 
 * Cedric F
