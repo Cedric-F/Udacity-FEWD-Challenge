@@ -39,6 +39,7 @@ html {
   left: 0;
   top: 0;
   width: 100%;
+  position: absolute;
   z-index:1;
   -webkit-animation: snow 10s linear infinite;
   -moz-animation: snow 10s linear infinite;
@@ -232,14 +233,9 @@ footer {
 .topic-list .topic-excerpt {
   color: var(--text);
 }
-
-
+ 
 .badge-notification.new-topic {
-  color: var(--secondary-bg);
-}
-
-.badge-notification, .badge-notification.new-posts {
-  background-color: var(--secondary-bg);
+  color: #66d9ef;
 }
  
 .nav-pills>li>a {
@@ -268,11 +264,7 @@ nav.post-controls button.create,
 .latest-topic-list-item .main-link a.title {
     color: var(--ember);
 }
-  
-.topic-list .sortable:hover {
-  background-color: var(--secondary-bg);
-}
-
+ 
 .topic-list-item:hover {
   background-color: rgba(163, 44, 38, 0.7);
 }
