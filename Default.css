@@ -1,0 +1,384 @@
+/* Root */
+:root{
+
+  /* Dominant colors */
+  --primary-bg: #292d3e; /* var(--primary-bg) */
+  --secondary-bg: #343741; /* var(--secondary-bg) */
+  --ember: rgba(253, 151, 31, 0.7); /* var(--ember) */
+  --text: white; /* var(--text) */
+
+  /* Miscellaneous */
+
+  --social-btn: magenta; /* var(--social-btn) | default color of like/share/etc buttons */
+  --like: red; /* Customize the "heart" (like-button) color */
+  --flag: red; /* The "redflag" button to report inapropriate posts */
+  --unread: rgba(0,0,0,0.2); /* Define the background color of unread topics cells (in the user stream) */
+  --highlight: #DFA700; /* var(--highlight) | hilighted search result */
+  --biography: rgba(255,255,255,0.3); /* var(--biography) | unexpanded biography div background */
+  --foot-links: #e6db74; /* var(--foot-links) | links color in the footer */
+  --quote-ctrl: green; /* var(--quote-ctrl) | color of the "expend/collapse" and "go-to" buttons on a quoted message */
+
+}
+
+
+/* dominant bg color */
+html {
+  background-color: var(--primary-bg);
+}
+ 
+ 
+/* Reverse the logos color */
+.logo-big, .social_links {
+  filter: invert(100%);
+}
+ 
+.category-list tbody .category h3 a[href],
+.btn[href]{
+  color: inherit;
+}
+ 
+/* Highlight color for search results */
+.highlight-strong {
+    background-color: var(--highlight);
+}
+ 
+/* No flash animation on new topics */
+.topic-list-item.highlighted {
+    animation: none !important;
+}
+
+
+/* Polls */
+div.poll li[data-poll-option-id] {
+  color: var(--text);
+}
+ 
+/* ------------- User menus ---------------  */
+ 
+.user-stream .ember-view,
+.user-stream .item,
+.user-stream .user-stream-item {
+  background-color: var(--primary-bg);
+}
+ 
+.user-stream .edit-reason {
+  background-color: inherit;
+}
+ 
+.large-notification a span {
+  color: var(--ember);
+}
+ 
+.user-stream .excerpt {
+  color: var(--text);
+}
+ 
+.user-main .d-icon-heart {
+  color: var(--like, red) !important;
+}
+ 
+.user-stream .child-actions .fa,
+.user-stream-item-actions .fa {
+  color: inherit;
+}
+ 
+.user-menu .notifications .read {
+  background-color: var(--primary-bg);
+}
+ 
+.user-menu .notifications li span{
+  color: var(--ember);
+}
+ 
+.user-stream {
+  background-color: var(--primary-bg);
+}
+ 
+.user-stream .notification.unread {
+  background-color: var(--unread, none);
+}
+ 
+.user-navigation .nav-stacked a.active,
+.user-preferences .static {
+  color: var(--ember);
+}
+ 
+.user-content {
+  background-color: inherit;
+}
+ 
+.user-main .about.collapsed-info .details {
+  background-color: var(--biography);
+  border-bottom: transparent;
+}
+ 
+.user-main .about .details {
+  background-color: transparent;
+}
+ 
+.user-main .about .secondary {
+  background-color: var(--secondary-bg);
+  border-top: transparent;
+  border-bottom: transparent;
+}
+ 
+.user-main .about .secondary dd{
+  color: var(--text);
+}
+ 
+.avatar-wrapper {
+  background-color: transparent;
+}
+ 
+/* Biography editor preview. By default takes the style of the next selector. Add your own between {} to edit it. */
+ 
+.user-preferences .bio-composer .d-editor-preview,
+.edit-category-tab-topic-template .d-editor-preview
+ 
+ 
+/* --------------- Top right corner menus --------------- */
+ 
+ div.menu-links-header .fa, div.menu-links-header a {
+  color: var(--text);
+ }
+ 
+.list-controls .category-breadcrumb li.bullet>.dropdown-header {
+  background-color: var(--secondary-bg);
+  color: var(--text);
+}
+ 
+.list-controls .category-dropdown-menu{
+  background-color: var(--secondary-bg);
+}
+ 
+/* foot lists */
+nav.foot ul.footer_nav ul li a {
+  color: var(--foot-links);
+}
+ 
+nav.foot ul.footer_nav ul li a:hover  {
+  color: var(--text);
+}
+ 
+ 
+/* main textual colors */
+html p,
+#topic-title h1 a,
+.badge-wrapper.bullet span.badge-category,
+.extra-info-wrapper .topic-link,
+.extra-info-wrapper .badge-wrapper.bullet span.badge-category,
+.cooked{
+  color: var(--text);
+}
+ 
+p>code, li>code, pre>code {
+  color: black;
+  background: white;
+}
+ 
+ 
+ 
+/* ------ Header and Footer ------ */
+ 
+.d-header,
+.alert.alert-info,
+footer {
+  background-color: var(--secondary-bg);
+}
+ 
+ 
+.topic-list .topic-excerpt {
+  color: var(--text);
+}
+ 
+.badge-notification.new-topic {
+  color: #66d9ef;
+}
+ 
+.nav-pills>li>a {
+  color: var(--text);
+}
+ 
+ /* Color for most of the important text */
+
+.utility .copyright,
+nav.foot ul.footer_nav h3,
+.topic-list-icons .d-icon-thumb-tack,
+.latest-topic-list .d-icon-thumb-tack,
+.topic-list .d-icon-thumb-tack,
+.alert.alert-info.clickable,
+.names span a,
+nav.post-controls button.create,
+.suggested-topics-message{
+    color: var(--ember);
+}
+ 
+.topic-list-main-link a.title,
+.topic-list .main-link a.title,
+.latest-topic-list-item .main-link a.title {
+    color: var(--ember);
+}
+ 
+.topic-list-item:hover {
+  background-color: var(--secondary-bg);
+}
+ 
+.topic-list .topic-list-item-separator td span {
+  color: red;
+  background-color: var(--secondary-bg);
+}
+ 
+.ember-view{
+  color: var(--ember);
+}
+ 
+ 
+/* Text edition */
+ 
+.d-editor-textarea-wrapper{
+  background-color: var(--primary-bg);
+}
+ 
+.d-editor-textarea-wrapper>.ember-view { /* Color of the text when replying/creating a topic | Keep it light on a dark background */
+  color: white;
+}
+ 
+.topic-list-bottom {
+  background-color: transparent;
+}
+ 
+.topic-footer-main-buttons>.flag-topic {
+  color: var(--flag);
+}
+ 
+.topic-footer-main-buttons>button:hover {
+  background-color: var(--secondary-bg);
+}
+ 
+.btn,
+.topic-footer-main-buttons>.bookmark,
+.share,
+.flag-topic {
+  background-color: var(--secondary-bg);
+  color: var(--ember);
+}
+ 
+.modal-footer>.btn,
+.topic-footer-main-buttons>.bookmark,
+.share,
+.flag-topic {
+  background-color: var(--secondary-bg);
+  color: var(--ember);
+}
+ 
+.composer-popup {
+  background-color: var(--primary-bg);
+}
+ 
+.composer-popup a.close { // 
+  color: red;
+}
+ 
+.d-editor-preview {
+  background-color: var(--primary-bg);
+}
+ 
+ 
+/* Button editions */
+ 
+nav.post-controls a,
+nav.post-controls button,
+nav.post-controls button.has-like,
+nav.post-controls button.has-like {
+  color: var(--social-btn);
+}
+ 
+nav.post-controls button.has-like:hover {
+  cursor: pointer;
+}
+ 
+nav.post-controls button.has-like {
+  color: var(--like);
+}
+ 
+ 
+/* Quotation edition */
+ 
+span.highlighted {
+  background-color: inherit;
+}
+ 
+blockquote,
+aside.quote>.title {
+  border-left: var(--secondary-bg);
+  background-color: var(--secondary-bg);
+}
+ 
+aside.quote>.title {
+  border-bottom: 1px solid grey;
+}
+ 
+.quote-controls,
+.quote-controls .d-icon {
+  color: var(--quote-ctrl);
+}
+ 
+ 
+/* Top right menus background overall */
+ 
+.menu-panel {
+  background-color: var(--primary-bg);
+  border: 1px solid grey;
+}
+ 
+/* table header */
+thead {
+  background-color: var(--secondary-bg);
+}
+ 
+
+
+#reply-control,
+#reply-control.draft,
+#reply-control.saving {
+  background-color: var(--secondary-bg);
+}
+ 
+ 
+/* Rotating logo in the footer */
+ 
+@-webkit-keyframes rotating  {
+  from {
+    -webkit-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  to {
+    -webkit-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+@keyframes rotating {
+  from {
+    -ms-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -webkit-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  to {
+    -ms-transform: rotateY(360deg);
+    -moz-transform: rotateY(360deg);
+    -webkit-transform: rotateY(360deg);
+    -o-transform: rotateY(360deg);
+    transform: rotateY(360deg);
+  }
+}
+.footer_logo {
+  -webkit-animation: rotating 2s linear infinite;
+  -moz-animation: rotating 2s linear infinite;
+  -ms-animation: rotating 2s linear infinite;
+  -o-animation: rotating 2s linear infinite;
+  animation: rotating 2s linear infinite;
+}
