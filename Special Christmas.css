@@ -67,6 +67,9 @@ html {
     animation: none !important;
 }
 
+.topic-list-item:hover .category .badge-category {
+  color:var(--primary-bg);
+}
 
 /* Polls */
 div.poll li[data-poll-option-id] {
