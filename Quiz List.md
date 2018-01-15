@@ -14,7 +14,7 @@
     * [ ] Constructing Links (Quiz 2-5)
     * [ ] Add an Image (Quiz 2-6)
     * [ ] Figures (Quiz 2-7)
-* [ ] _Project: Mockup to Article_
+* [ ] **_Project: Mockup to Article_**
 
 # CSS
 
@@ -39,7 +39,7 @@
   * [ ] Practice Keyboard Shortcuts (Checklist)
   * [ ] Keyboard Shortcuts (Quiz 1-1)
   * [ ] What's your favorite Theme? (User input)
-* [ ] _Project: Animal Trading Cards_
+* [ ] **_Project: Animal Trading Cards_**
 
 # JavaScript
 
@@ -155,4 +155,4 @@
   * [ ] jQuery Event Listener Order (Quiz 3-2)
   * [ ] jQuery Event Listener (Quiz 3-3)
   * [ ] Convenience Methods (Quiz 3-4)
-* [ ] _Project: Pixel Art Maker_
+* [ ] **_Project: Pixel Art Maker_**
