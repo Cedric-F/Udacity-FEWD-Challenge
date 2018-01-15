@@ -1,157 +1,156 @@
 # HTML
 
 * [X] Syntax
-  * [X] Make your First Element
-  * [X] Spot the Bug
-  * [X] HTML Research
-  * [X] HTML Structure part 2
-  * [X] HTML Documents in Depth
+  * [X] Make your First Element (Quiz 1-1)
+  * [X] Spot the Bug (Quiz 1-2)
+  * [X] HTML Research (Quiz 1-3)
+  * [X] HTML Documents in Depth (2 Questions)
 * [X] Syntax Problem Set
-  * [X] Make a Button
+  * [X] Make a Button (Quiz 2-1)
   * [X] Udacity Feedback Extension:
-    * [X] Make all the Headers
-    * [X] Make a List
-    * [X] Tree to HTML
-    * [X] Constructing Links
-    * [X] Add an Image
-    * [X] Figures
+    * [X] Make all the Headers (Quiz 2-2)
+    * [X] Make a List (Quiz 2-3)
+    * [X] Tree to HTML (Quiz 2-4)
+    * [X] Constructing Links (Quiz 2-5)
+    * [X] Add an Image (Quiz 2-6)
+    * [X] Figures (Quiz 2-7)
 * [X] _Project: Mockup to Article_
 
 # CSS
 * [X] Syntax
-  * [X] CSS or HTML ?
-  * [X] CSS Syntax
-  * [X] Tag Selectors
-  * [X] Using Selectors
-  * [X] Using CSS References
-  * [X] Using Dev Tools
-  * [X] Units in CSS
-  * [X] Identifying Colors
+  * [X] CSS or HTML ? (Quiz 1-1)
+  * [X] CSS Syntax (Quiz 1-2)
+  * [X] Tag Selectors (Quiz 1-3)
+  * [X] Using Selectors (Quiz 1-4)
+  * [X] Using CSS References (Quiz 1-5)
+  * [X] Using Dev Tools (Quiz 1-6)
+  * [X] Units in CSS (Quiz 1-7)
+  * [X] Identifying Colors (Quiz 1-8)
 * [X] Syntax Problem Set
-  * [X] Style an Image
-  * [X] Style the Font
-  * [X] Writing Selectors
-  * [X] Using Attributes
-  * [X] Slack Card
-  * [X] Udacity Site Header
-  * [X] Link to a Stylesheet
+  * [X] Style an Image (Quiz 2-1)
+  * [X] Style the Font (Quiz 2-2)
+  * [X] Writing Selectors (Quiz 2-3)
+  * [X] Using Attributes (Quiz 2-4)
+  * [X] Slack Card (Quiz 2-5)
+  * [X] Udacity Site Header (Quiz 2-6)
+  * [X] Link to a Stylesheet (Quiz 2-7)
 * [X] Write code faster
-  * [X] Practice Keyboard Shortcuts
-  * [X] Keyboard Shortcuts
-  * [X] What's your favorite Theme?
+  * [X] Practice Keyboard Shortcuts (Checklist)
+  * [X] Keyboard Shortcuts (Quiz 1-1)
+  * [X] What's your favorite Theme? (User input)
 * [X] _Project: Animal Trading Cards_
 
 # JavaScript
 * [X] What is JavaScript?
-  * [X] JS Demo
+  * [X] JS Demo (1-1 - 2 Questions)
 * [X] Data Types & Variables
-  * [X] Numbers
+  * [X] Numbers (Drag and drop items)
   * [X] First Expression (2-1)
-  * [X] String Concatenation
-  * [X] Variables
+  * [X] String Concatenation (3 Questions)
+  * [X] Variables (1 Question)
   * [X] Converting Temperatures (2-2)
-  * [X] String Index
-  * [X] Escaping Strings
-  * [X] Comparing Strings
+  * [X] String Index (1 Question)
+  * [X] Escaping Strings (1 Question)
+  * [X] Comparing Strings (1 Question)
   * [X] Favorite Food (2-3)
   * [X] String Equality for All (2-4)
   * [X] All Tied Up (2-5)
   * [X] Yosa Buson (2-6)
   * [X] Facebook Post (2-7)
-  * [X] Null, Undefined, and NaN
-  * [X] Equality
+  * [X] Null, Undefined, and NaN (1 Question)
+  * [X] Equality (2 Questions)
   * [X] Semicolons (2-8)
   * [X] What's my Name? (2-9)
   * [X] Out to Dinner (2-10)
   * [X] Mad Libs (2-11)
   * [X] One Awesome Message (2-12)
 * [X] Conditionals
-  * [X] Flowcharts
-  * [X] Else If Statements
+  * [X] Flowcharts (3-1) _2 Questions_
+  * [X] Else If Statements (2 Questions)
   * [X] Even or Odd (3-2)
   * [X] Musical Groups (3-3)
   * [X] Murder Mystery (3-4)
-  * [X] Logical Operators
+  * [X] Logical Operators (3 Questions)
   * [X] Checking your Balance (3-5)
   * [X] Ice Cream (3-6)
   * [X] What do I Wear? (3-7)
-  * [X] Truthy and Falsy
-  * [X] Ternay Operator
+  * [X] Truthy and Falsy (1 Question)
+  * [X] Ternay Operator (1 Question)
   * [X] Navigating the Food Chain (3-8)
-  * [X] Switch Statement
-  * [X] Falling-through
+  * [X] Switch Statement (1 Question)
+  * [X] Falling-through (1 Question)
   * [X] Back to School (3-9)
 * [X] Loops
-  * [X] Parts of a While Loop
+  * [X] Parts of a While Loop (2 Questions)
   * [X] JuliaJames (4-1)
   * [X] 99 Bottles of Juice (4-2)
   * [X] Countdown, Liftoff! (4-3)
-  * [X] Nested Loops
+  * [X] Nested Loops (1 Question)
   * [X] Changing the Loop (4-4)
   * [X] Fix the Error 1 (4-5)
   * [X] Fix the Error 2 (4-6)
   * [X] Factorials! (4-7)
   * [X] Find my Seat (4-8)
 * [X] Functions
-  * [X] Declaring Functions
+  * [X] Declaring Functions (2 Questions)
   * [X] Laugh it Off 1 (5-1)
   * [X] Laugh it Off 2 (5-2)
-  * [X] Return Values
-  * [X] Using Return Values
-  * [X] Scope Example
-  * [X] Shadowing
-  * [X] Hoisting
+  * [X] Return Values (3 Questions)
+  * [X] Using Return Values (1 Question)
+  * [X] Scope Example (2 Questions)
+  * [X] Shadowing (2 Questions)
+  * [X] Hoisting (3 Questions)
   * [X] Build a Triangle (5-3)
   * [X] Laugh (5-4)
   * [X] Cry (5-5)
   * [X] Inline (5-6)
 * [X] Arrays
-  * [X] Creating an Array
-  * [X] Array Index
+  * [X] Creating an Array (1 Question)
+  * [X] Array Index (2 Question)
   * [X] UdaciFamily (6-1)
   * [X] Building the Crew (6-2)
   * [X] The Price is Right (6-3)
-  * [X] Length
-  * [X] Pop
-  * [X] Splice
+  * [X] Length (1 Question)
+  * [X] Pop (1 Question)
+  * [X] Splice (1 Question)
   * [X] Colors of the Rainbow (6-4)
   * [X] Quidditch Cup (6-5)
   * [X] Joining the Crew (6-6)
-  * [X] Checking out the Docs (6-7)
+  * [X] Checking out the Docs (6-7) _4 Questions_
   * [X] Another Type of Loop (6-8)
   * [X] I Got Bills (6-9)
   * [X] Nested Numbers (6-10)
 * [X] Objects
   * [X] Umbrella (7-1)
-  * [X] Naming Conventions
+  * [X] Naming Conventions (2 Question)
   * [X] Menu Items (7-2)
   * [X] Bank Accounts 1 (7-3)
-  * [X] Bank Accounts 2 (7-4)
+  * [X] Bank Accounts 2 (7-4) _1 Question_
   * [X] Facebook Friends (7-5)
   * [X] Donuts Revisited (7-6)
 
  # jQuery
 * [X] DOM, $, Selectors
-  * [X] Whats is jQuery
-  * [X] DOM Inspiration
-  * [X] Select by Tags
-  * [X] Select by Classes
-  * [X] Select by IDs
-  * [X] Filter Quiz
+  * [X] Whats is jQuery (Quiz 1-1)
+  * [X] DOM Inspiration (Quiz 1-2)
+  * [X] Select by Tags (Quiz 1-3)
+  * [X] Select by Classes (Quiz 1-4)
+  * [X] Select by IDs (Quiz 1-5)
+  * [X] Filter Quiz (Quiz 1-6)
 * [X] DOM Manipulation
-  * [X] you.toggleClass()
-  * [X] Toggling Classes
-  * [X] Changing Attributes
-  * [X] Modifying CSS
-  * [X] Collecting Values
-  * [X] Removing DOM Elements
-  * [X] Build a DOM Tree
-  * [X] Iterating with Each
-  * [X] Why use jQuery?
-  * [X] _$(function)_
+  * [X] you.toggleClass() (Quiz 2-1)
+  * [X] Toggling Classes (Quiz 2-2)
+  * [X] Changing Attributes (Quiz 2-3)
+  * [X] Modifying CSS (Quiz 2-4)
+  * [X] Collecting Values (Quiz 2-5)
+  * [X] Removing DOM Elements (Quiz 2-6)
+  * [X] Build a DOM Tree (Quiz 2-7)
+  * [X] Iterating with Each (Quiz 2-8)
+  * [X] Why use jQuery? (Quiz 2-9)
+  * [X] _$(function)_ (Quiz 2-10)
 * [X] Event Listeners
-  * [X] monitorEvents
-  * [X] jQuery Event Listener Order
-  * [X] jQuery Event Listener
-  * [X] Convenience Methods
+  * [X] monitorEvents (Quiz 3-1)
+  * [X] jQuery Event Listener Order (Quiz 3-2)
+  * [X] jQuery Event Listener (Quiz 3-3)
+  * [X] Convenience Methods (Quiz 3-4)
 * [X] _Project: Pixel Art Maker_
