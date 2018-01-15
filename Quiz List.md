@@ -1,11 +1,11 @@
 # HTML
 
-* [ ] Syntax
+* [ ] **Syntax**
   * [ ] Make your First Element (Quiz 1-1)
   * [ ] Spot the Bug (Quiz 1-2)
   * [ ] HTML Research (Quiz 1-3)
   * [ ] HTML Documents in Depth (2 Questions)
-* [ ] Syntax Problem Set
+* [ ] **Syntax Problem Set**
   * [ ] Make a Button (Quiz 2-1)
   * [ ] Udacity Feedback Extension:
     * [ ] Make all the Headers (Quiz 2-2)
@@ -17,7 +17,8 @@
 * [ ] _Project: Mockup to Article_
 
 # CSS
-* [ ] Syntax
+
+* [ ] **Syntax**
   * [ ] CSS or HTML ? (Quiz 1-1)
   * [ ] CSS Syntax (Quiz 1-2)
   * [ ] Tag Selectors (Quiz 1-3)
@@ -26,7 +27,7 @@
   * [ ] Using Dev Tools (Quiz 1-6)
   * [ ] Units in CSS (Quiz 1-7)
   * [ ] Identifying Colors (Quiz 1-8)
-* [ ] Syntax Problem Set
+* [ ] **Syntax Problem Set**
   * [ ] Style an Image (Quiz 2-1)
   * [ ] Style the Font (Quiz 2-2)
   * [ ] Writing Selectors (Quiz 2-3)
@@ -34,16 +35,17 @@
   * [ ] Slack Card (Quiz 2-5)
   * [ ] Udacity Site Header (Quiz 2-6)
   * [ ] Link to a Stylesheet (Quiz 2-7)
-* [ ] Write code faster
+* [ ] **Write code faster**
   * [ ] Practice Keyboard Shortcuts (Checklist)
   * [ ] Keyboard Shortcuts (Quiz 1-1)
   * [ ] What's your favorite Theme? (User input)
 * [ ] _Project: Animal Trading Cards_
 
 # JavaScript
-* [ ] What is JavaScript?
+
+* [ ] **What is JavaScript?**
   * [ ] JS Demo (1-1 - 2 Questions)
-* [ ] Data Types & Variables
+* [ ] **Data Types & Variables**
   * [ ] Numbers (Drag and drop items)
   * [ ] First Expression (2-1)
   * [ ] String Concatenation (3 Questions)
@@ -64,7 +66,7 @@
   * [ ] Out to Dinner (2-10)
   * [ ] Mad Libs (2-11)
   * [ ] One Awesome Message (2-12)
-* [ ] Conditionals
+* [ ] **Conditionals**
   * [ ] Flowcharts (3-1) _2 Questions_
   * [ ] Else If Statements (2 Questions)
   * [ ] Even or Odd (3-2)
@@ -80,7 +82,7 @@
   * [ ] Switch Statement (1 Question)
   * [ ] Falling-through (1 Question)
   * [ ] Back to School (3-9)
-* [ ] Loops
+* [ ] **Loops**
   * [ ] Parts of a While Loop (2 Questions)
   * [ ] JuliaJames (4-1)
   * [ ] 99 Bottles of Juice (4-2)
@@ -91,7 +93,7 @@
   * [ ] Fix the Error 2 (4-6)
   * [ ] Factorials! (4-7)
   * [ ] Find my Seat (4-8)
-* [ ] Functions
+* [ ] **Functions**
   * [ ] Declaring Functions (2 Questions)
   * [ ] Laugh it Off 1 (5-1)
   * [ ] Laugh it Off 2 (5-2)
@@ -104,7 +106,7 @@
   * [ ] Laugh (5-4)
   * [ ] Cry (5-5)
   * [ ] Inline (5-6)
-* [ ] Arrays
+* [ ] **Arrays**
   * [ ] Creating an Array (1 Question)
   * [ ] Array Index (2 Question)
   * [ ] UdaciFamily (6-1)
@@ -120,7 +122,7 @@
   * [ ] Another Type of Loop (6-8)
   * [ ] I Got Bills (6-9)
   * [ ] Nested Numbers (6-10)
-* [ ] Objects
+* [ ] **Objects**
   * [ ] Umbrella (7-1)
   * [ ] Naming Conventions (2 Question)
   * [ ] Menu Items (7-2)
@@ -130,14 +132,14 @@
   * [ ] Donuts Revisited (7-6)
 
  # jQuery
-* [ ] DOM, $, Selectors
+* [ ] **DOM, $, Selectors**
   * [ ] Whats is jQuery (Quiz 1-1)
   * [ ] DOM Inspiration (Quiz 1-2)
   * [ ] Select by Tags (Quiz 1-3)
   * [ ] Select by Classes (Quiz 1-4)
   * [ ] Select by IDs (Quiz 1-5)
   * [ ] Filter Quiz (Quiz 1-6)
-* [ ] DOM Manipulation
+* [ ] **DOM Manipulation**
   * [ ] you.toggleClass() (Quiz 2-1)
   * [ ] Toggling Classes (Quiz 2-2)
   * [ ] Changing Attributes (Quiz 2-3)
@@ -148,7 +150,7 @@
   * [ ] Iterating with Each (Quiz 2-8)
   * [ ] Why use jQuery? (Quiz 2-9)
   * [ ] _$(function)_ (Quiz 2-10)
-* [ ] Event Listeners
+* [ ] **Event Listeners**
   * [ ] monitorEvents (Quiz 3-1)
   * [ ] jQuery Event Listener Order (Quiz 3-2)
   * [ ] jQuery Event Listener (Quiz 3-3)
