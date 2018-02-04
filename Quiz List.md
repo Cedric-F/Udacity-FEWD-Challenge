@@ -14,6 +14,7 @@
     * [ ] 8. Constructing Links (Quiz 2-5)
     * [ ] 9. Add an Image (Quiz 2-6)
     * [ ] 11. Figures (Quiz 2-7)
+    * [ ] 12. Mockup to Website (Checklist)
 * [ ] **_Project: Mockup to Article_**
 
 # CSS
