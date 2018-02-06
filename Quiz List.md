@@ -134,7 +134,7 @@
 
  # jQuery
 * [ ] **DOM, $, Selectors**
-  * [ ] 2. Whats is jQuery (Quiz 1-1)
+  * [ ] 3. Whats is jQuery (Quiz 1-1)
   * [ ] 6. DOM Inspiration (Quiz 1-2)
   * [ ] 8. Select by Tags (Quiz 1-3)
   * [ ] 9. Select by Classes (Quiz 1-4)
